@@ -21,3 +21,5 @@
 /home/dmkrebsbach/CodingDojo/CSharp/ASP/Portfolio1/obj/Debug/netcoreapp2.2/Portfolio1.dll
 /home/dmkrebsbach/CodingDojo/CSharp/ASP/Portfolio1/obj/Debug/netcoreapp2.2/Portfolio1.pdb
 /home/dmkrebsbach/CodingDojo/CSharp/ASP/Portfolio1/obj/Debug/netcoreapp2.2/Portfolio1.csproj.CopyComplete
+/home/dmkrebsbach/CodingDojo/CSharp/ASP/Portfolio1/obj/Debug/netcoreapp2.2/Razor/Views/Home/contact.g.cshtml.cs
+/home/dmkrebsbach/CodingDojo/CSharp/ASP/Portfolio1/obj/Debug/netcoreapp2.2/Razor/Views/Home/projects.g.cshtml.cs

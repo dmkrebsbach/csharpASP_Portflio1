@@ -1,0 +1,60 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.container {
+    width: 100%;
+    display: inline-block;
+}
+
+.header {
+    text-align: center;
+    display: inline-block;
+    width: 100%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+h4 {
+    display: inline-block;
+    width: 100%;
+    color: black;
+}
+
+h4 a{
+    text-decoration: none;
+    color: black;
+}
+
+.aboutMe {
+    height: 400px;
+    width: 100%;
+    
+    display: inline-block;
+    margin: 15px auto;
+}
+.aboutMe h3 {
+    text-align: center;
+    font-size: 38px;
+}
+
+.aboutMe .image {
+    margin-top: 25px;
+    padding: 15px;
+    height: 300px;
+    width: 45%;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.aboutMe .image img{
+    margin: 15px auto;
+    height: 100px;
+    width: 100px;
+    display: block;
+}
+
+.aboutMeInfo {
+    text-align: center;
+}

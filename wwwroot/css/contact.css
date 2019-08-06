@@ -1,0 +1,46 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.container {
+    width: 100%;
+    display: inline-block;
+}
+
+.header {
+    text-align: center;
+    display: inline-block;
+    width: 100%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+h4 {
+    display: inline-block;
+    width: 100%;
+    color: black;
+}
+
+h4 a{
+    text-decoration: none;
+    color: black;
+}
+
+.aboutMe {
+    height: 600px;
+    width: 100%;
+    display: inline-block;
+    margin: 15px auto;
+}
+.aboutMe h3 {
+    text-align: center;
+    font-size: 38px;
+}
+
+form {
+    display: block;
+    width: 50%;
+    margin: 25px auto;
+}
+
